@@ -16,5 +16,5 @@ Follow the instructions given on https://www.pygame.org/wiki/GettingStarted .
 
 
 ## Usage
-After downloading thoses 2 programs, download RanColor and double click to run it.
+After downloading thoses 2 programs, clone "RanColor" and double click to run it.
 
